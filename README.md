@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis Project
+# Walmart Sales Data Analysis Project --MySQL
 ## Overview
 This project explores Walmart sales data obtained from the Kaggle Walmart Sales Forecasting Competition. The objective is to gain insights into the sales data, understand top-performing branches and products, analyze sales trends, and explore customer behavior. The dataset consists of sales transactions from three different branches located in Mandalay, Yangon, and Naypyitaw, with 17 columns and 1000 rows.
 
